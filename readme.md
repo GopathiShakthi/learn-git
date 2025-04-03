@@ -3,5 +3,5 @@
 subscribe to me on youtube
 
 ''' javascript
-console.log('hello world');
+console.log('hello world!');
 '''
